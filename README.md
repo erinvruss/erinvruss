@@ -1,4 +1,12 @@
-### Hi there 👋
+### About Me 👋
+•	Electrical Engineering post-bacc at Portland State University, BA in History from UNLV <br />
+•	IT Help Desk tech at Heroic Technologies 💻 <br />
+•	Experience in UNIX administration, Python, C++, and Java <br />
+•	Dream job is avionics or RF/communications ✈️ <br />
+•	Heart transplant recipient 💞 <br />
+
+#### 🌱 I’m currently learning... <br />
+•	Brushing up on Python & circuits <br />
 
 <!--
 **erinvruss/erinvruss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
