@@ -1,6 +1,6 @@
 ### About Me 👋
 •	Electrical Engineering post-bacc at Portland State University, BA in History from UNLV <br />
-•	IT Help Desk tech at Heroic Technologies 💻 <br />
+•	IT Help Desk tech 💻 <br />
 •	Experience in UNIX administration, Linux, web design, Python, C++, and Java <br />
 •	Dream job is in avionics or RF/communications ✈️ <br />
 •	Heart transplant recipient 💞 <br />
