@@ -1,12 +1,7 @@
 ### About Me 👋
-•	Electrical Engineering post-bacc at Portland State University, BA in History from UNLV <br />
 •	IT Help Desk tech 💻 <br />
 •	Experience in UNIX administration, Linux, web design, Python, C++, and Java <br />
-•	Dream job is in avionics or RF/communications ✈️ <br />
 •	Heart transplant recipient 💞 <br />
-
-#### 🌱 I’m currently learning... <br />
-•	Brushing up on Python & circuits <br />
 
 <!--
 **erinvruss/erinvruss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
